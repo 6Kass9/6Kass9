@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**6Kass9/6Kass9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Cássio
 
-Here are some ideas to get you started:
+🎮 indie game developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## focus
+gameplay • systems • web tools • backend logic
+
+## stack
+Unity • HTML • CSS • javascript • C#
+
+## current work
+building small games & experiments
+
+## philosophy
+“simple systems, strong gameplay”
+
+## links
+(https://6kass9.itch.io/)
