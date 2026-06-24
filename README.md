@@ -15,6 +15,3 @@ building small games & experiments
 
 ## philosophy
 “simple systems, strong gameplay”
-
-## links
-(https://6kass9.itch.io/)
