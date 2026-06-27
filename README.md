@@ -11,7 +11,4 @@ gameplay • systems • web tools • backend logic
 Unity • HTML • CSS • javascript • C#
 
 ## current work
-building small games & experiments
-
-## philosophy
-“simple systems, strong gameplay”
+building games & experiments
